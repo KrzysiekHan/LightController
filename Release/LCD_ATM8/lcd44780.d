@@ -1,0 +1,4 @@
+LCD_ATM8/lcd44780.d LCD_ATM8/lcd44780.o: ../LCD_ATM8/lcd44780.c \
+  ../LCD_ATM8/lcd44780.h
+
+../LCD_ATM8/lcd44780.h:
